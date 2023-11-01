@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ordinal-tractor-403615",
+  "private_key_id": "0e2a1e3f1b665b588096696b7cb8ed951e0f28a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdHJGe7PMzb8ox\nPc3yJaB0Ckrc/UUyLPaefkeHX6RXuwbGoQB3kYXIXJX3iC9iUp9XAzWiiiqek+Jm\nBBmLPi8vy8pwhZOGhAjPY/nHOnaISfOuz8FGRbJKJ2KJ0ZxvmtvC8oJcQ5Gzkzje\nLYet1SksozXlTqiWVnNEUB8vMdcg7aejeB4JynTIeTBbR1+6krHB4anKYJfzLRT1\nwF+IPeq/8wXaFTJN6FWscS3OLtNQf1G2iROD/8Js5maWvfHyJmtzS8MkxABrvnxY\n2CF5vrxZBo3MyCgeV56b4cvwunvopyg7Y41dFZfNUp8pjF7KY+xbtrxQRtbZTZvE\nDLR6jRU/AgMBAAECggEAAiWteSOPNf5qyqjSk2L07MEQltvrQdf1eDhiQopfFPKH\nEYM1HhfiC9lKv2WgEtLtlI3ZrM1V7xw29Y1MIBK10wxmSYq5zRZ+3FQRyimVYcrI\n8XRWFYocTqvNH/RlE+1k4CbaUJJ9KkbHzy7bci0TRqXltarmiO9zhyp6fUr2wAoZ\n7tLhNFWlkl+9R4Z0ayxtERLJcMCmpHRy/0i95njYKaB9o0B0AhfA3XEyw8mIgkOG\nmLazHR9d5jJWk01QwSWcutk+cPvcylFaCg9hwaGzSDdakM/uGeqVPXHmZN3q5l9P\nBKv2gYGjKWw24idLsOBHMmz5aYzc0utBuluWdB/ewQKBgQDeA2Gb4sgDZecY3fec\njQBno2UvlWPYLxpQV+SKvjJXybsWRqMYR3vflDfZg2UFtsPppmJQEQnPkI+l0zbX\nCOVjHgzXDzASpjcJTJvMkfGnf9fp3KW3ApFjaD4yVZVk0lk2S4JCYRpvieNZ001r\n0FAJCIH2uvVwwnpHB5oFl6s0IQKBgQC1Kbdq2CpjqOON7yTnxiYV3JlLLaAHwzCO\nAX6BdYPp6DeTCy23WzCkPxPT3hddzrG6gGTuX3uceiOoAA7CLLK6pguVCNHTbLGN\ns7OSQf1o50qeLJY5UnTSrb1essdoXi0nlOYyRQPTpLJZ5/aV8NhSNnrYG2Jw6uGg\nrx1fOX0dXwKBgQCFDSm2LpcH0k5JDN2UKLyRX88IUVNg//mZJNOGgq3RBsjkdLjR\nmCWYvE8sQB6O6hVHNbu9mDh0+IHeM1KuVFqEqEGxsRxyUMKzBAJq+xwD8g4HzYBS\nyWswVAzSRZAeuCFW9LG/7knVhqGF96hycIlGoJ6iqzDkvuhhISEhMOAdgQKBgHnf\n46W8YOAEyXk9zc0i75I7guEhg4xVUr/l325GWYUtlN2WYp38ef+086jPu1Z/a+90\n2vHGSIlfXcdyqnsUyPRqKlaLxWT/tX8HyqF1RX6iQv+gLTvI7hChk0k26pGa8bO0\nJxzgcw+Zt+Zl9+ytR0ofnort+U7PpRSNWiwqp7HvAoGAAR/IH38Cgg6dW/EvbdHZ\nXkl54W7+WPSbDCMKGcAVPz7Q9td33rx3sFZFB9K9OBzi2qrXhFZFIh71v/3pCFOv\nZKYxTer9LudwW3KArQPfbpMUDHp/wWIan02grgwVTKVyeqxHKt5tbtfKAXO55S6v\nbpfDfykRUfE4VWX1uBWdzRY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "augmentation@ordinal-tractor-403615.iam.gserviceaccount.com",
+  "client_id": "115118473721531250137",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/augmentation%40ordinal-tractor-403615.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
